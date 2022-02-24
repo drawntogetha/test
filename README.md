@@ -1,1 +1,1 @@
-add contents here too
+conflicts resolved, text added
